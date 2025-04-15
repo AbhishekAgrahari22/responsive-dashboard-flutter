@@ -53,12 +53,12 @@ class _SidebarState extends State<Sidebar> {
             backgroundColor: const Color.fromRGBO(221, 176, 82, 1),
             child: const CircleAvatar(
               radius: 34,
-              backgroundImage: AssetImage('assets/profile.jpg'),
+              backgroundImage: AssetImage('assets/profile.png'),
             ),
           ),
           const SizedBox(height: 6),
           const Text(
-            "Guddi Yadav",
+            "Abhishek Agrahari",
             style: TextStyle(fontSize: 9, fontWeight: FontWeight.w400),
           ),
           const SizedBox(height: 6),
